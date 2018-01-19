@@ -1,0 +1,79 @@
+<manifest alg="2" build="2015.1.2.344" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="tsujigaito.com" resolutions="1x" timestamp="1516350463147">
+  <folder name="css">
+    <file name="site_global.css" crc="3917215077"/>
+    <file name="index.css" crc="3985889339" ref="index"/>
+    <file name="portfolio_other.css" crc="20365746" ref="portfolio_other"/>
+    <file name="portfolio_dessin.css" crc="444169555" ref="portfolio_dessin"/>
+    <file name="portfolio_game.css" crc="97781009" ref="portfolio_game"/>
+    <file name="portfolio_event.css" crc="147203589" ref="portfolio_event"/>
+    <file name="portfolio_3dcg.css" crc="4124475247" ref="portfolio_3dcg"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="207176553" ref="index:portfolio_3dcg:portfolio_dessin:portfolio_game:portfolio_event:portfolio_other"/>
+    <file name="museutils.js" crc="3790713428" ref="index:portfolio_3dcg:portfolio_dessin:portfolio_game:portfolio_event:portfolio_other"/>
+    <file name="whatinput.js" crc="84559013" ref="index:portfolio_3dcg:portfolio_dessin:portfolio_game:portfolio_event:portfolio_other"/>
+    <file name="jquery.musemenu.js" crc="238543590" ref="index:portfolio_3dcg:portfolio_dessin:portfolio_game:portfolio_event:portfolio_other"/>
+    <file name="jquery.watch.js" crc="4244854265" ref="index:portfolio_3dcg:portfolio_dessin:portfolio_game:portfolio_event:portfolio_other"/>
+    <file name="webpro.js" crc="329496574" ref="index:portfolio_3dcg:portfolio_dessin:portfolio_game:portfolio_event:portfolio_other"/>
+    <file name="musewpslideshow.js" crc="394033048" ref="index:portfolio_3dcg:portfolio_dessin:portfolio_game:portfolio_event:portfolio_other"/>
+    <file name="jquery.museoverlay.js" crc="4265131668" ref="index:portfolio_3dcg:portfolio_dessin:portfolio_game:portfolio_event:portfolio_other"/>
+    <file name="touchswipe.js" crc="497316881" ref="index:portfolio_3dcg:portfolio_dessin:portfolio_game:portfolio_event:portfolio_other"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="3918880840" ref="index:portfolio_3dcg:portfolio_dessin:portfolio_game:portfolio_event:portfolio_other"/>
+    <file name="form_check.php" crc="3805695515" ref="index"/>
+    <file name="form_throttle.php" crc="3802629389" ref="index"/>
+    <file name="form_process.php" crc="54267062" ref="index"/>
+    <file name="form-u455.php" crc="176533750" ref="index"/>
+    <file name="pie.js" crc="3827607177" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="4219894366" ref="index:portfolio_3dcg:portfolio_dessin:portfolio_game:portfolio_event:portfolio_other"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:portfolio_3dcg:portfolio_dessin:portfolio_game:portfolio_event:portfolio_other"/>
+  </folder>
+  <folder name="images">
+    <file name="pattern-4tsm.jpg" crc="521096077" ref="index:portfolio_3dcg:portfolio_dessin:portfolio_game:portfolio_event:portfolio_other"/>
+    <file name="coast-curacao-dawn-953.jpg" crc="204280402" seo="true" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index:portfolio_3dcg:portfolio_dessin:portfolio_game:portfolio_event:portfolio_other"/>
+    <file name="dawn-dust-grass-2946.jpg" crc="4262803439" seo="true" ref="index"/>
+    <file name="arleft1.png" crc="1459088" ref="index:portfolio_3dcg:portfolio_dessin:portfolio_game:portfolio_event:portfolio_other"/>
+    <file name="arright1.png" crc="269558854" ref="index:portfolio_3dcg:portfolio_dessin:portfolio_game:portfolio_event:portfolio_other"/>
+    <file name="loading.gif" crc="3815509949" ref="index:portfolio_3dcg:portfolio_dessin:portfolio_game:portfolio_event:portfolio_other"/>
+    <file name="city-taxi-transportation-247-466x350.jpg" crc="66501267" ref="index"/>
+    <file name="u470-17.png" crc="47793030" ref="index"/>
+    <file name="u470-17-r.png" crc="517585659" ref="index"/>
+    <file name="u470-17-m.png" crc="517585659" ref="index"/>
+    <file name="u470-17-fs.png" crc="371136328" ref="index"/>
+    <file name="architecture-blue-sky-building-563-525x350.jpg" crc="4170436068" ref="index"/>
+    <file name="tumblr_oovo9flfbb1vh8419o1_1280-u706-a-fr.jpg" crc="4031745616" ref="index:portfolio_3dcg:portfolio_game"/>
+    <file name="beach-building-house-2544-527x350.jpg" crc="4291617680" ref="index"/>
+    <file name="bridge-steel-692-528x350.jpg" crc="526913442" ref="index"/>
+    <file name="building-bunker-house-554-525x350.jpg" crc="3963935975" ref="index"/>
+    <file name="building-church-m--laga-cathedral-3625-525x350.jpg" crc="3896974796" ref="index"/>
+    <file name="building-house-overgrown-2619-527x350.jpg" crc="432134901" ref="index"/>
+    <file name="tumblr_oovo9flfbb1vh8419o1_1280.jpg" crc="50048955" seo="true" ref="portfolio_3dcg:portfolio_dessin:portfolio_game:portfolio_event:portfolio_other"/>
+    <file name="screenshot004.jpg" crc="248658928" ref="portfolio_3dcg"/>
+    <file name="himahikari.jpg" crc="4084750648" ref="portfolio_3dcg"/>
+    <file name="ダウンロード.png" crc="4019356365" ref="portfolio_3dcg"/>
+    <file name="qllbiqbe.png" crc="3934701597" ref="portfolio_3dcg"/>
+    <file name="photoshop-1065296_960_720.jpg" crc="164458009" ref="portfolio_3dcg"/>
+    <file name="substance.jpg" crc="4135956108" ref="portfolio_3dcg"/>
+    <file name="autodesk-maya-icon.png" crc="158728225" ref="portfolio_3dcg"/>
+    <file name="himalamp_02.png" crc="295659581" ref="portfolio_3dcg"/>
+    <file name="scar-03のコピー.png" crc="531109303" ref="portfolio_3dcg"/>
+    <file name="tumblr_oeivxzmcc71vh8419o1_1280.jpg" crc="252187773" ref="portfolio_3dcg"/>
+    <file name="紙風船調整済.jpg" crc="43726304" ref="portfolio_dessin"/>
+    <file name="紙風船調整済-u3514-fr.jpg" crc="457719746" ref="portfolio_dessin"/>
+    <file name="自画像調整済.jpg" crc="365316764" ref="portfolio_dessin"/>
+    <file name="左腕調整済.jpg" crc="304482210" ref="portfolio_dessin"/>
+    <file name="jintori_title.jpg" crc="3998775388" ref="portfolio_game"/>
+    <file name="img_2098.jpg" crc="253116319" ref="portfolio_event"/>
+    <file name="tumblr_oovo9flfbb1vh8419o1_1280-u6511-fr.jpg" crc="3955786341" ref="portfolio_event"/>
+    <file name="img_4534.jpg" crc="210977546" ref="portfolio_other"/>
+    <file name="img_4551.jpg" crc="3962404414" ref="portfolio_other"/>
+    <file name="img_4552.jpg" crc="249411109" ref="portfolio_other"/>
+    <file name="img_4550.jpg" crc="506819585" ref="portfolio_other"/>
+  </folder>
+  <file name="index.html" crc="4112224480" seo="true" mt="1516349448536" redirect="true"/>
+  <file name="portfolio_3dcg.html" crc="508948143" seo="true" mt="1516348394482" redirect="true"/>
+  <file name="portfolio_dessin.html" crc="248677833" seo="true" mt="1516348393914" redirect="true"/>
+  <file name="portfolio_game.html" crc="305833327" seo="true" mt="1516348394248" redirect="true"/>
+  <file name="portfolio_event.html" crc="140916463" seo="true" mt="1516348394703" redirect="true"/>
+  <file name="portfolio_other.html" crc="4241454881" seo="true" mt="1516348394652" redirect="true"/>
+</manifest>
